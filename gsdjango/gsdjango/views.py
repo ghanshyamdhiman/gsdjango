@@ -5,4 +5,4 @@ def index(request):
     return HttpResponse("Hello, World INdex")
 
 def home(request):
-    return render(request, "gsdjango/templates/index.html", {})
+    return render(request, "templates/index.html", {})
