@@ -68,6 +68,9 @@ Steps to get going
 
 Go it....Get it
    
+   Further Reading
+   Writing your first Django app 
+   https://docs.djangoproject.com/en/2.0/intro/tutorial01/
      
 
 
