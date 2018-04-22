@@ -5,24 +5,26 @@
 
 ## Steps to get going
 
-** 1. Log in to your ubuntu os. **
+**1. Log in to your ubuntu os.**
 
 2. Install Python3 if not installed.
    * $ sudo apt-get update
    * $ sudo apt-get -y upgrade
    * $ sudo apt-get install python3
   
-  ** Check the installation **
+  * *Check the installation* *
   
   * $ python3 -V
-  *  Output
-  *  Python 3.5.2
+    *  Output
+    *  Python 3.5.2
      
 3. Install pip3 if not installed. 
   * $ sudo apt-get install -y python3-pip
-  * Check the installation
+  
+  * *Check the installation* *
+  
   * $ pip3 -V
-  * Output pip 8.1.1 from /usr/lib/python3/dist-packages (python 3.5)
+    * Output pip 8.1.1 from /usr/lib/python3/dist-packages (python 3.5)
 
 4. Install Django 2.0 if not installed.
    * $ sudo pip3 install Django==2.0
