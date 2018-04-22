@@ -67,7 +67,7 @@
     $ tree
 
 **8. Move to the installation directory gsdjango**
-   * $ cd gsdjango
+   - $ cd gsdjango
    
 **9. Run the server**
    * $ python3 manage.py runserver 0:80
@@ -79,8 +79,7 @@
 @ghanshyamdhiman :+1: Go it....Get it! :shipit:
    
   ###### Further Reading
-   Writing your first Django app 
-   https://docs.djangoproject.com/en/2.0/intro/tutorial01/
+[Writing your first Django app](https://docs.djangoproject.com/en/2.0/intro/tutorial01/).
      
 
 
