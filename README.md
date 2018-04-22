@@ -44,17 +44,18 @@
 **6. Initialize and Configure git**
    * $ git init
    * $ git config --global user.name "Your Name"
-   * $ git config --global user.email "youremail@domain.com"
+   * $ git config --global user.email "youremail@/domain.com"
    
    *Check the configuration*
    
    * $ git config --list
      > Output  - user.name=Your Name
-                 user.email=youremail@domain.com
+               > user.email=youremail@domain.com
 
 **7. Clone the remote repository**
    * $ git clone https://github.com/ghanshyamdhiman/gsdjango.gitb
-   * Install tree if not installed
+   
+   *Install tree if not installed*
    * $ sudo apt install tree
   
   *Check the installation*
@@ -62,7 +63,7 @@
    * $ tree --version
      > Output - tree v1.7.0 (c) 1996 - 2014
    
-   *Check the clone
+   *Check the clone*
     $ tree
 
 **8. Move to the installation directory gsdjango**
