@@ -44,7 +44,7 @@
 **6. Initialize and Configure git**
    * $ git init
    * $ git config --global user.name "Your Name"
-   * $ git config --global user.email "youremail@/domain.com"
+   * $ git config --global user.email "youremail@domain.com"
    
    *Check the configuration*
    
