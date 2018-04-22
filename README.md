@@ -1,7 +1,7 @@
 # gsdjango
 
 ## This is an experimental project to explore Django
-on VPS Ubuntu 16.04
+> on VPS Ubuntu 16.04 using Python3, Pip3 & Django 2.0
 
 ## Steps to get going
 
