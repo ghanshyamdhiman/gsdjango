@@ -12,62 +12,65 @@
    * $ sudo apt-get -y upgrade
    * $ sudo apt-get install python3
   
-  * *Check the installation* *
+  *Check the installation*
   
   * $ python3 -V
-    *  Output
-    *  Python 3.5.2
+      > Output  -  Python 3.5.2
      
 **3. Install pip3 if not installed** 
   * $ sudo apt-get install -y python3-pip
   
-  * *Check the installation* *
+  *Check the installation*
   
   * $ pip3 -V
-    * Output pip 8.1.1 from /usr/lib/python3/dist-packages (python 3.5)
+    > Output  -  pip 8.1.1 from /usr/lib/python3/dist-packages (python 3.5)
 
 **4. Install Django 2.0 if not installed**
    * $ sudo pip3 install Django==2.0
-   * Check the installation
+   
+   *Check the installation*
+   
    * $ django-admin --version
-   * OUtput
-   * 2.0
+     > OUtput  - 2.0
 
 **5. Install git if not installed**
    * $ sudo apt-get install git
-   * Check the installation
+   
+   *Check the installation*
+   
    * $ git --version
-   * Output
-   * git version 2.7.4
+     > Output  - git version 2.7.4
 
 **6. Initialize and Configure git**
    * $ git init
    * $ git config --global user.name "Your Name"
    * $ git config --global user.email "youremail@domain.com"
-   * Check the configuration
+   
+   *Check the configuration*
+   
    * $ git config --list
-   * Output
-   * user.name=Your Name
-   * user.email=youremail@domain.com
+     > Output  - user.name=Your Name
+                 user.email=youremail@domain.com
 
 **7. Clone the remote repository**
    * $ git clone https://github.com/ghanshyamdhiman/gsdjango.gitb
    * Install tree if not installed
    * $ sudo apt install tree
-   * Check the installation
+  
+  *Check the installation*
+  
    * $ tree --version
-   * Output
-   * tree v1.7.0 (c) 1996 - 2014
-   * Check the clone
-   * $ tree
+     > Output - tree v1.7.0 (c) 1996 - 2014
+   
+   *Check the clone
+    $ tree
 
 **8. Move to the installation directory gsdjango**
    * $ cd gsdjango
    
 **9. Run the server**
    * $ python3 manage.py runserver 0:80
-   * Output
-   * ....Control+C
+   > Output  - ....Control-C
 
 **10. Open the browser and see the application running by going to the ip address of the ubuntu server or localhost**
 
