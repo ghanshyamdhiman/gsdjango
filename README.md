@@ -1,9 +1,9 @@
 # gsdjango
 
-##This is an experimental project to explore Django
+## This is an experimental project to explore Django
 on VPS Ubuntu 16.04
 
-##Steps to get going
+## Steps to get going
 
 1. Log in to your ubuntu os.
 
