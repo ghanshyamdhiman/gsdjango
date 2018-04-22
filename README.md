@@ -5,13 +5,15 @@
 
 ## Steps to get going
 
-1. Log in to your ubuntu os.
+** 1. Log in to your ubuntu os. **
 
 2. Install Python3 if not installed.
-  * $ sudo apt-get update
-  * $ sudo apt-get -y upgrade
-  * $ sudo apt-get install python3
-  * Check the installation
+   * $ sudo apt-get update
+   * $ sudo apt-get -y upgrade
+   * $ sudo apt-get install python3
+  
+  ** Check the installation **
+  
   * $ python3 -V
   *  Output
   *  Python 3.5.2
