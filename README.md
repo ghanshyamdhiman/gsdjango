@@ -68,7 +68,7 @@
 10. Open the browser and see the application running by going to the ip address of the ubuntu server or localhost
 
 
-@octocat :+1: Go it....Get it! :shipit:
+@ghanshyamdhiman :+1: Go it....Get it! :shipit:
    
   ###### Further Reading
    Writing your first Django app 
