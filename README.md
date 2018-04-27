@@ -53,7 +53,7 @@
                > user.email=youremail@domain.com
 
 **7. Clone the remote repository**
-   * $ git clone https://github.com/ghanshyamdhiman/gsdjango.gitb
+   * $ git clone https://github.com/ghanshyamdhiman/gsdjango.git
    
    *Install tree if not installed*
    * $ sudo apt install tree
