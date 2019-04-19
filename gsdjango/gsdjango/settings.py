@@ -33,6 +33,7 @@ ALLOWED_HOSTS = [ "ghanshyamdhiman.com","149.28.31.252"
 # Application definition
 
 INSTALLED_APPS = [
+    'bookings.apps.BookingsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
