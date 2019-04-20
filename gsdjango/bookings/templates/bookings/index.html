@@ -1,7 +1,7 @@
 {% if latest_booking_list %}
   <ul>
     (% for booking in latest_booking_list %}
-      <li><a href="/bookings/{{ booking.booking_date}}"> {{ booking.booking_venue ]} </a></li>
+      <li><a href="/bookings/{{ booking.booking_date}}"> {{ booking.booking_venue }} </a></li>
       {% endfor %}
   </ul>
 {% else %}
