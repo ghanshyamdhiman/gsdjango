@@ -76,7 +76,7 @@
 **10. Open the browser and see the application running by going to the ip address of the ubuntu server or localhost**
 
 
-@ghanshyamdhiman :+1: Go it....Get it! :shipit:
+@ghanshyamdhiman :+1: Got it....Get it! :shipit:
    
   ###### Further Reading
 [Writing your first Django app](https://docs.djangoproject.com/en/2.0/intro/tutorial01/).
