@@ -5,9 +5,9 @@ from .models import BookingDetails
 
 
 
-def index(request):
+def bookings(request):
     latest_booking_list = BookingDetails.objects.order_by('booking_date')[:5]
-    template = loader.get_template('bookings/index.html')
+    template = loader.get_template('bookings/booking.html')
     context = {
         'latest_booking_list': latest_booking_list,
     }
